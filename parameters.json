@@ -62,7 +62,7 @@
             "value": "azuser"
         },
         "adminPassword": {
-            "value": Password@123456
+            "value": "Password@123456"
         }
     }
 }
